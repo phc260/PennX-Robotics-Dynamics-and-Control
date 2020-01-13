@@ -12,5 +12,7 @@ Implement a control law to drive the robot such that the location of the paint s
 
 <img src="desired_path.png" height="100">
 
+This robot only starts spraying at t=2.5 and ends at t=18.
+
 ## Result
 <img src="mobile_path.png">
