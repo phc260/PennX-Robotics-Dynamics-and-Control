@@ -10,5 +10,7 @@ Where  (x,y,θ)  is the position of the robot and  (xp, yp)  is the position of 
 
 Implement a control law to drive the robot such that the location of the paint sprayer follows the trajectory given below:
 
+<img src="desired_path.png">
+
 ## Result
-<img src="mobile-path.png">
+<img src="mobile_path.png">
