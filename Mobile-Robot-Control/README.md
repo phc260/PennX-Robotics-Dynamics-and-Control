@@ -8,7 +8,7 @@ Considering  v  and  ω  as the control inputs to the system, the nonlinear stat
 
 Where  (x,y,θ)  is the position of the robot and  (xp, yp)  is the position of the paint sprayer.
 
-Implement a control law to drive the robot such that the location of the paint sprayer follows the given trajectory.
+Implement a control law to drive the robot such that the location of the paint sprayer follows the trajectory given below:
 
 ## Result
 <img src="mobile-path.png">
